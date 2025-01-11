@@ -62,7 +62,7 @@ def show_footer():
 
 def main():
     st.title("📊 SQL Everything")
-    st.image('sql.png',width=400)
+    st.image('sql.png',width=450)
     show_footer()
     # Sidebar for API keys
     with st.sidebar:
